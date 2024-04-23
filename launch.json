@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/source",
-      "destination": "/destination",
+      "source": "/blog",
+      "destination": "https://www.ellogroup.co.uk/",
       "statusCode": 308
     }
   ]
